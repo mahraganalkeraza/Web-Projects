@@ -1,7 +1,6 @@
 # Web-Projects
 Welcome to my project showcase! Here are screenshots and previews of the full-stack web applications and platforms I have built.
-1-<img width="898" height="463" alt="لقطة شاشة 2026-11-16 234547" src="https://github.com/user-attachments/assets/b8e20947-980c-46fd-bd15-73bf3c3fcf92" />
-Bishopric Online Examination & Automated Result Processing Portal
+1-Bishopric Online Examination & Automated Result Processing Portal
 * *Tech Stack:* React, Vite, TypeScript, Supabase Realtime
 * *Description:* End-to-end digital examination system and admin analytics dashboard processing thousands of student submissions.
 * <img width="883" height="473" alt="لقطة شاشة 2026-11-16 234409" src="https://github.com/user-attachments/assets/0bd0acdf-ce40-4029-a897-82a7d1ea36a0" />
