@@ -45,3 +45,17 @@ Welcome to my project showcase! Here are screenshots and previews of the full-st
 
 <img width="868" height="407" alt="لقطة شاشة 2026-11-16 235418" src="https://github.com/user-attachments/assets/827aa8e8-e484-49ea-ba88-a2e3a2193e21" />
 
+
+4-Babble_sheet2026
+
+<img width="906" height="431" alt="لقطة شاشة 2026-11-17 004912" src="https://github.com/user-attachments/assets/18ca9fa2-5a5c-4249-b5fb-3a8127ba33be" />
+
+
+<img width="697" height="463" alt="لقطة شاشة 2026-11-17 005340" src="https://github.com/user-attachments/assets/95fb9b82-185a-4ac6-b054-7e83f3d355b0" />
+
+
+<img width="902" height="451" alt="لقطة شاشة 2026-11-17 005435" src="https://github.com/user-attachments/assets/80716d0e-9d4e-40db-a6fa-35b5bf2f9b08" />
+
+
+<img width="740" height="395" alt="لقطة شاشة 2026-11-17 005450" src="https://github.com/user-attachments/assets/99cd0cff-63b7-4a0c-893b-71152b04cf11" />
+
